@@ -1,0 +1,18 @@
+{
+  "addons": [],
+  "buildpacks": [],
+  "repository": "https://github.com/kamalmeetsingh/opentok-elearning-samples.git",
+  "env": {
+    "OPENTOK_API_KEY": {
+      "description": "API key from OpenTok",
+      "required": true
+    },
+    "OPENTOK_API_SECRET": {
+      "description": "API secret from OpeTok",
+      "required": true
+    }
+  },
+  "formation": {},
+  "name": "opentok-elearning-proctoring-samples",
+  "scripts": {}
+}
