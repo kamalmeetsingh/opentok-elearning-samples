@@ -14,5 +14,11 @@
   },
   "formation": {},
   "name": "opentok-elearning-proctoring-samples",
+  "description": "OpenTok RTC sample application to show off the OpenTok API and platform capabilities ",
+  "keywords": [
+    "WebRTC",
+    "HTML5",
+    "productivity"
+  ],
   "scripts": {}
 }
