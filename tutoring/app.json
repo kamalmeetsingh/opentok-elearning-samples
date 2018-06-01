@@ -1,7 +1,7 @@
 {
   "addons": [],
   "buildpacks": [],
-  "repository": "https://github.com/kamalmeetsingh/opentok-elearning-samples/blob/master/tutoring.git",
+  "repository": "https://github.com/kamalmeetsingh/opentok-elearning-samples.git",
   "env": {
     "OPENTOK_API_KEY": {
       "description": "API key from OpenTok",
